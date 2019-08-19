@@ -45,7 +45,7 @@
    ],
    "comments":[
 	  {
-			"id":"C1",
+			"id":1,
 			"postid":1,
 			"account": 
 				{
@@ -57,7 +57,7 @@
 			"content": "C1 Guy saves dog from racoon Guy saves dog from racoon Guy saves dog from racoon" 
 	  },
 	  {
-			"id": "C2",
+			"id":2,
 			"postid": 1,
 			"account": 
 				{
@@ -69,7 +69,7 @@
 			"content": "C2 Guy saves dog from racoon Guy saves dog from racoon Guy saves dog from racoon" 
 	  },
 	  {
-			"id": "C3",
+			"id":3,
 			"postid": 1,
 			"account": 
 				{
@@ -82,7 +82,7 @@
 	  },
 	  
 	  {
-			"id": "C4",
+			"id":4,
 			"postid": 2,
 			"account": 
 				{
@@ -94,7 +94,7 @@
 			"content": "C4 Guy saves dog from racoon Guy saves dog from racoon Guy saves dog from racoon" 
 	  },
 	  {
-			"id": "C5",
+			"id":5,
 			"postid": 2,
 			"account": 
 				{
@@ -106,7 +106,7 @@
 			"content": "C5 Guy saves dog from racoon Guy saves dog from racoon Guy saves dog from racoon" 
 	  },
 	  {
-			"id": "C6",
+			"id":6,
 			"postid": 3,
 			"account": 
 				{
