@@ -2,7 +2,6 @@
    "posts":[
       {
          "id":1,
-         "tes":"ab",
          "account":{
             "id":1,
             "name":"Awesome"
@@ -17,7 +16,6 @@
       },      
       {
          "id":2,
-         "tes":"cd",
          "account":{
             "id":2,
             "name":"Awesome 2"
@@ -32,7 +30,6 @@
       },
       {
          "id":3,
-         "tes":"ef",
          "account":{
             "id":3,
             "name":"Awesome 3"
@@ -119,6 +116,6 @@
 				}
 			],
 			"content": "C6 Guy saves dog from racoon Guy saves dog from racoon Guy saves dog from racoon" 
-	  },
+	  }
    ]
 }
