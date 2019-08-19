@@ -55,67 +55,6 @@
 				}
 			],
 			"content": "C1 Guy saves dog from racoon Guy saves dog from racoon Guy saves dog from racoon" 
-	  },
-	  {
-			"id": "C2",
-			"postid": 1,
-			"account": [
-				{
-					"id": "1",
-					"name": "Yoga",
-					"pictUrl": "http://placekitten.com/g/200/200"
-				}
-			],
-			"content": "C2 Guy saves dog from racoon Guy saves dog from racoon Guy saves dog from racoon" 
-	  },
-	  {
-			"id": "C3",
-			"postid": 1,
-			"account": [
-				{
-					"id": "1",
-					"name": "Yoga",
-					"pictUrl": "http://placekitten.com/g/200/200"
-				}
-			],
-			"content": "C3 Guy saves dog from racoon Guy saves dog from racoon Guy saves dog from racoon" 
-	  },
-	  
-	  {
-			"id": "C4",
-			"postid": 2,
-			"account": [
-				{
-					"id": "1",
-					"name": "Yoga",
-					"pictUrl": "http://placekitten.com/g/200/200"
-				}
-			],
-			"content": "C4 Guy saves dog from racoon Guy saves dog from racoon Guy saves dog from racoon" 
-	  },
-	  {
-			"id": "C5",
-			"postid": 2,
-			"account": [
-				{
-					"id": "1",
-					"name": "Yoga",
-					"pictUrl": "http://placekitten.com/g/200/200"
-				}
-			],
-			"content": "C5 Guy saves dog from racoon Guy saves dog from racoon Guy saves dog from racoon" 
-	  },
-	  {
-			"id": "C6",
-			"postid": 3,
-			"account": [
-				{
-					"id": "1",
-					"name": "Yoga",
-					"pictUrl": "http://placekitten.com/g/200/200"
-				}
-			],
-			"content": "C6 Guy saves dog from racoon Guy saves dog from racoon Guy saves dog from racoon" 
 	  }
    ]
 }
