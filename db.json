@@ -47,13 +47,12 @@
 	  {
 			"id":"C1",
 			"postid":1,
-			"account": [
-				{
-					"id": "1",
-					"name": "Yoga",
-					"pictUrl": "http://placekitten.com/g/200/200"
-				}
-			],
+			"account": 
+			{
+				"id": "1",
+				"name": "Yoga",
+				"pictUrl": "http://placekitten.com/g/200/200"
+			},
 			"content": "C1 Guy saves dog from racoon Guy saves dog from racoon Guy saves dog from racoon" 
 	  }
    ]
